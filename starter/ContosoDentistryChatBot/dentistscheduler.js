@@ -1,3 +1,4 @@
+
 class DentistScheduler {
     constructor(configuration) {
         this.getAvailability = async () => {
